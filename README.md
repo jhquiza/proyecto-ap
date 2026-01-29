@@ -38,8 +38,10 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 # Configuración del entorno virtual
 uv sync
+```
 
 ### Verificar la instalación
 ```bash
 # Listar paquetes instalados
 uv pip list
+```
