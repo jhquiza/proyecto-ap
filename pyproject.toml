@@ -1,10 +1,12 @@
 [project]
 name = "proyecto-ap"
 version = "0.1.0"
-description = "Add your description here"
+description = "Entorno de desarrollo para proyecto del curso de Análisis Predictivo de Datos, periodo 2026-1."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pandas>=3.0.0",
     "scikit-learn>=1.8.0",
 ]
+[tool.uv]
+package = false
