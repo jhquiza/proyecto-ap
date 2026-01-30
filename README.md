@@ -1,4 +1,4 @@
-# Repositorio base para los proyectos de aula de Análisis Predictivo de Datos, 2026-2
+# Repositorio base para los proyectos de aula de Análisis Predictivo de Datos, 2026-1
 
 Este repositorio constituye un laboratorio educativo y profesional destinado al desarrollo, implementación y evaluación de modelos de Machine Learning. La arquitectura del proyecto está diseñada bajo principios de reproducibilidad y eficiencia técnica.
 
