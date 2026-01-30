@@ -2,14 +2,14 @@
 
 Este repositorio constituye un laboratorio educativo y profesional destinado al desarrollo, implementación y evaluación de modelos de Machine Learning. La arquitectura del proyecto está diseñada bajo principios de reproducibilidad y eficiencia técnica.
 
-## Arquitectura Tecnológica
+## Arquitectura tecnológica
 Para garantizar un entorno de ejecución estable y de alto rendimiento, el proyecto utiliza:
 - Lenguaje: Python >=3.12
 - Gestor de Entorno: `uv` para una resolución de dependencias determinista y acelerada.
 - Motor de Construcción: Hatchling
 - Control de Versiones: Git con integración en GitHub.
 
-## Estructura del Repositorio
+## Estructura del repositorio
 La organización del código sigue una taxonomía lógica para facilitar la escalabilidad:
 
 - data/: Almacenamiento de datasets (locales y externos).
@@ -26,9 +26,13 @@ Tener:
 - Un IDE (recomendado VSCode)
 
 ## Instalación
+
+1. Ir a la [url del repositorio](https://github.com/jhquiza/proyecto-ap.git).
+2. Hacer una copia del repositorio mediante el comando `fork`.
+
 #### Clonar el repositorio
 ```bash
-git clone https://github.com/jhquiza/proyecto-ap.git
+git clone https://github.com/su-usuario/proyecto-ap.git
 cd proyecto-ap
 ```
 ### Configurar el entorno con uv (Recomendado)
